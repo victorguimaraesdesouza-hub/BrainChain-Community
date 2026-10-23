@@ -104,8 +104,10 @@ Ainda não. O aplicativo está em alpha teste fechado, com um grupo pequeno de t
 **Como faço para participar dos testes?**
 Acompanhe este repositório (botão **Watch**). As próximas vagas serão anunciadas aqui e nas Discussions.
 
-**Preciso pagar para usar os agentes?**
-O BrainChain usa as CLIs oficiais de cada fornecedor com a sua própria conta. O que cada fornecedor cobra continua sendo entre você e ele. Os modelos locais (Ollama, LM Studio, llama.cpp) rodam no seu computador.
+**O BrainChain é pago?**
+Sim, o BrainChain é um produto pago. Os planos e valores serão anunciados aqui.
+
+Os agentes continuam usando as CLIs oficiais de cada fornecedor com a sua própria conta, e o que cada fornecedor cobra é à parte, entre você e ele. Os modelos locais (Ollama, LM Studio, llama.cpp) rodam no seu computador.
 
 **O BrainChain é um modelo de IA?**
 Não. Ele é o ambiente onde os agentes trabalham: organiza, conecta e dá controle sobre eles. Os modelos são dos fornecedores que você escolher, ou os que você roda localmente.
