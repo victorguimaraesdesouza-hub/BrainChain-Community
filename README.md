@@ -25,7 +25,7 @@ O BrainChain não substitui os agentes que você já usa. Ele roda as próprias 
 - Quem quer pôr vários agentes trabalhando em paralelo sem perder o controle do que eles fazem.
 - Quem prefere rodar modelos no próprio computador.
 
-Hoje o aplicativo roda no **Windows**.
+O aplicativo roda no **Windows**, no **macOS** e no **Linux**.
 
 ## O que já dá para fazer
 
@@ -33,7 +33,7 @@ Hoje o aplicativo roda no **Windows**.
 - Organize o trabalho em **workspaces** e **projetos**, cada um apontando para a sua pasta.
 - Abra vários agentes ao mesmo tempo em **painéis** que você redimensiona, minimiza, maximiza ou destaca em janelas próprias.
 - Busque workspaces, projetos e agentes pela barra lateral, fixe os favoritos e veja de relance quem está trabalhando.
-- Abra também **terminais comuns** (Prompt de Comando, PowerShell, Git Bash) como painéis do projeto.
+- Abra também **terminais comuns** como painéis do projeto, escolhendo entre os shells instalados no seu computador.
 
 ### Agentes suportados
 O BrainChain trabalha com as CLIs oficiais de cada fornecedor. A instalação é opcional e você escolhe quais quer usar:
@@ -110,8 +110,8 @@ O BrainChain usa as CLIs oficiais de cada fornecedor com a sua própria conta. O
 **O BrainChain é um modelo de IA?**
 Não. Ele é o ambiente onde os agentes trabalham: organiza, conecta e dá controle sobre eles. Os modelos são dos fornecedores que você escolher, ou os que você roda localmente.
 
-**Funciona no Mac ou no Linux?**
-Por enquanto o aplicativo é feito e testado para Windows.
+**Em quais sistemas ele funciona?**
+Windows, macOS e Linux.
 
 **O código do BrainChain é aberto?**
 Não. Este repositório é a página pública do projeto e da comunidade; ele não contém o código do aplicativo.
